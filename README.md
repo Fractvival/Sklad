@@ -29,9 +29,6 @@ Sloupce `Inventura SKLADU` (F) a `Doplněno DNE` (H) se aktuálně nepoužívaj�
 
 Jakmile je instalace hotová, může se program spustit. Po spuštění se tedy program zeptá uživatele, jestli chce zvolit složku se skladem. Jakmile je složka zvolená, provede se její inicializace- to znamená, že se v ní vytvoří podsložky pro logy uživatelů a pro zálohy. Teprve poté je již zobrazen úvodní dialog pro přihlášení uživatele.
 
-Při prvním spuštění je automaticky vytvořen jediný uživatel, a to Administrátor.<br /> Přihlašovací heslo je:
-```ruby
-123456
-```
+Při prvním spuštění je automaticky vytvořen jediný uživatel, a to Administrátor.<br /> Přihlašovací heslo je: `123456`
 
-Po přihlášení, v nabídce Správce, je poté doporučeno spustit Editor uživatelů, vytvořit nového správce, odhlásit se a při dalším přihlášení, jako nový správce, toho defaultního odstranit. Pak už nastává editace všech ostaních uživatelů.
+Po přihlášení, v nabídce `Správce`, je poté doporučeno spustit `Editor uživatelů`, vytvořit nového správce, odhlásit se a při dalším přihlášení, jako nový správce, toho defaultního odstranit. Pak už nastává editace všech ostaních uživatelů.
