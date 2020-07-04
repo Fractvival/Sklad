@@ -20,7 +20,7 @@
 |      KZM      |  Part NUMBER  |    Nazev1     |    Nazev2     |     Počet     | Inventura SKLADU |   Umístění    | Doplněno DNE  |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ---------------- | ------------- | ------------- |
 |   790040409   |22.1229.043-01 |   SPR.HELIC   |               |       1       | **NEPOUZIVA SE!**    |      3C1      | **NEPOUZIVA SE**  |
-|   790040397   |25.1033.206-04 |     PULLEY    |      GR       |       45      | **NEPOUUIVA SE!**    |      2C17     | **NEPOUZIVA SE**  |
+|   790040397   |25.1033.206-04 |     PULLEY    |      GR       |       45      | **NEPOUZIVA SE!**    |      2C17     | **NEPOUZIVA SE**  |
  
 Sloupce `Inventura SKLADU` (F) a `Doplněno DNE` (H) se aktuálně nepoužívají, avšak se s nimi počítá pro možnost jejich využití pro jiné účely.
 
